@@ -1,4 +1,4 @@
-#### seaborn is a library for making attractive and informative statistical graphics in python. All plots are created using some dataset in "1.seaborn.ipynb" file
+### seaborn is a library for making attractive and informative statistical graphics in python. All plots are created using some datasets in "1.seaborn.ipynb" file
 
 sns.barplot()                                                                                                       
 sns.catplot()   # sns.factorplot()                                                                                   
